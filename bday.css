@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    overflow-x: hidden;
+}
+
+.container{
+    width:100vw;
+    height: 100vh;
+    background-image: url(cake\ bg.jpg);
+    z-index: ;
+    background-position: center;
+}
